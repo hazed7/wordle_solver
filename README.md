@@ -20,8 +20,10 @@ The file contains two functions:
 
 
 # Example:
+```
 *Enter desired word size (default is 5, maximum is 9)*: 
 *Enter gray letters*: лопухырмт
 *Enter yellow letters and incorrect positions (e.g., 'a,1;a,3:4')*: в,1;д,3
 *Enter green letters and correct positions (e.g., 'a,1;b,2')*: е,2;к,4;а,5
 *Possible words*: ['девка']
+```
